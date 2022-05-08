@@ -13,7 +13,7 @@ public class FunctionalObject {
             int c = a+b;
             System.out.println("Sum of " + a + " and " + b +" is: " + c );
         };
-        func.print3(10, 16);
+        func.print3(100, 16);
     }
 }
 
